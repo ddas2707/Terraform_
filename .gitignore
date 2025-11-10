@@ -3,3 +3,8 @@
 *.tfstate
 *.tfstate.backup
 *.tfplan
+
+privkey
+privkey.pub
+docker-key.pem
+
