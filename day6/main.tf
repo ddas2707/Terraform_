@@ -8,7 +8,7 @@ variable "ami_id" {
 }
 variable "instance_type" {
   type        = string
-  description = "value of instance type"
+  description = "value of instances type"
 }
 
 module "ec2_instance" {
